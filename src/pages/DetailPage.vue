@@ -462,4 +462,15 @@
             </div>
         </div>
         <!-- Single Product End -->
+         <Footer/>
 </template>
+
+<script>
+import Footer from '../components/Footer.vue';
+export default {
+  name: 'HomePage',
+  components: {
+  Footer,
+},
+}
+</script>

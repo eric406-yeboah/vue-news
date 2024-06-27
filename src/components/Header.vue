@@ -49,17 +49,7 @@
                                 <router-link class="nav-item nav-link " to="/">Home</router-link>
                                 <!-- <a href="index.html" class="nav-item nav-link active">Home</a> -->
                                 <router-link class="nav-item nav-link" to="/detail">Detail Page</router-link>
-                                <a href="404.html" class="nav-item nav-link">404 Page</a>
-                                <div class="nav-item dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Dropdown</a>
-                                    <div class="dropdown-menu m-0 bg-secondary rounded-0">
-                                        <a href="#" class="dropdown-item">Dropdown 1</a>
-                                        <a href="#" class="dropdown-item">Dropdown 2</a>
-                                        <a href="#" class="dropdown-item">Dropdown 3</a>
-                                        <a href="#" class="dropdown-item">Dropdown 4</a>
-                                    </div>
-                                </div>
-                                <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                                <router-link class="nav-item nav-link" to="/contact">Contact Us</router-link>
                             </div>
                             <div class="d-flex flex-nowrap border-top pt-3 pt-xl-0">
                                 <div class="d-flex">
