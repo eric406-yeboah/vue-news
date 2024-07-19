@@ -373,8 +373,6 @@
             </div>
         </div>
         <!-- Latest News End -->
-
-        !-- Most Populer News Start -->
         <div class="container-fluid populer-news py-5">
             <div class="container py-5">
                 <div class="tab-class mb-4">
